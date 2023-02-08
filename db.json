@@ -17,6 +17,12 @@
       "text": "Food shopping",
       "day": "March 7th at 2:00pm",
       "reminder": true
+    },
+    {
+      "text": "learn vue",
+      "day": "till next Monday",
+      "reminder": false,
+      "id": "aj4q4Ls"
     }
   ]
 }
